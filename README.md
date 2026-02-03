@@ -50,7 +50,9 @@ The dataset simulates real-world energy consumption patterns.
 git clone https://github.com/your-username/advanced-time-series-attention-forecasting.git
 cd advanced-time-series-attention-forecasting
 pip install -r requirements.txt
-🛠️ Technologies Used
+
+
+##🛠️ Technologies Used
 Python 3.9+
 TensorFlow / Keras
 NumPy, Pandas
